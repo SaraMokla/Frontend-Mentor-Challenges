@@ -6,12 +6,12 @@
 
 @font-face {
     font-family: outfit;
-    src: url(Fonts/Outfit-Regular.ttf);
+    src: url(Fonts & Images/Outfit-Regular.ttf);
 }
 
 @font-face {
     font-family:young serif;
-    src: url(Fonts/YoungSerif-Regular.ttf);
+    src: url(Fonts & Images/YoungSerif-Regular.ttf);
 }
 
 body{
