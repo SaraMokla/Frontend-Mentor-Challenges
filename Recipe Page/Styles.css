@@ -10,10 +10,10 @@
   font-style: normal;
 }
 
-.outfit{
+.Outfit{
   font-family: "Outfit", serif;
   font-optical-sizing: auto;
-  font-weight: 400, 600, 700;
+  font-weight: <weight>;
   font-style: normal;
 }
 
